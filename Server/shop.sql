@@ -1,0 +1,1 @@
+select * from shop1 UNION select * from shop2 UNION select * from shop3;
